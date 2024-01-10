@@ -1,0 +1,85 @@
+{E:/Digital Diploma Ali EL Temsah/projects/adawy mips test/Program_Counter.v} {1 {vlog -work work {E:/Digital Diploma Ali EL Temsah/projects/adawy mips test/Program_Counter.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module program_Counter
+
+Top level modules:
+	program_Counter
+
+} {} {}} {E:/Digital Diploma Ali EL Temsah/projects/adawy mips test/Control_Unit.v} {1 {vlog -work work {E:/Digital Diploma Ali EL Temsah/projects/adawy mips test/Control_Unit.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Control_Unit
+
+Top level modules:
+	Control_Unit
+
+} {} {}} {E:/Digital Diploma Ali EL Temsah/projects/adawy mips test/Data_Memory.v} {1 {vlog -work work {E:/Digital Diploma Ali EL Temsah/projects/adawy mips test/Data_Memory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Data_Memory
+
+Top level modules:
+	Data_Memory
+
+} {} {}} {E:/Digital Diploma Ali EL Temsah/projects/adawy mips test/ALU.v} {1 {vlog -work work {E:/Digital Diploma Ali EL Temsah/projects/adawy mips test/ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {E:/Digital Diploma Ali EL Temsah/projects/adawy mips test/MUX.v} {1 {vlog -work work {E:/Digital Diploma Ali EL Temsah/projects/adawy mips test/MUX.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX
+
+Top level modules:
+	MUX
+
+} {} {}} {E:/Digital Diploma Ali EL Temsah/projects/adawy mips test/Instruction_Memory.v} {1 {vlog -work work {E:/Digital Diploma Ali EL Temsah/projects/adawy mips test/Instruction_Memory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Instruction_Memory
+
+Top level modules:
+	Instruction_Memory
+
+} {} {}} {E:/Digital Diploma Ali EL Temsah/projects/adawy mips test/shift_left_twice.v} {1 {vlog -work work {E:/Digital Diploma Ali EL Temsah/projects/adawy mips test/shift_left_twice.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module shift_left_twice
+
+Top level modules:
+	shift_left_twice
+
+} {} {}} {E:/Digital Diploma Ali EL Temsah/projects/adawy mips test/Register_File.v} {1 {vlog -work work {E:/Digital Diploma Ali EL Temsah/projects/adawy mips test/Register_File.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Register_File
+
+Top level modules:
+	Register_File
+
+} {} {}} {E:/Digital Diploma Ali EL Temsah/projects/adawy mips test/Data_Path.v} {1 {vlog -work work {E:/Digital Diploma Ali EL Temsah/projects/adawy mips test/Data_Path.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Data_Path
+
+Top level modules:
+	Data_Path
+
+} {} {}} {E:/Digital Diploma Ali EL Temsah/projects/adawy mips test/MIPS_Processor.v} {1 {vlog -work work {E:/Digital Diploma Ali EL Temsah/projects/adawy mips test/MIPS_Processor.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MIPS_Processor
+
+Top level modules:
+	MIPS_Processor
+
+} {} {}} {E:/Digital Diploma Ali EL Temsah/projects/adawy mips test/Adder.v} {1 {vlog -work work {E:/Digital Diploma Ali EL Temsah/projects/adawy mips test/Adder.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} {E:/Digital Diploma Ali EL Temsah/projects/adawy mips test/Sign_Extend.v} {1 {vlog -work work {E:/Digital Diploma Ali EL Temsah/projects/adawy mips test/Sign_Extend.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Sign_Extend
+
+Top level modules:
+	Sign_Extend
+
+} {} {}}
